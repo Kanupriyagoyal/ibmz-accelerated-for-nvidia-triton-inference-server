@@ -1636,7 +1636,7 @@ Information regarding technical support can be found
 
 The International License Agreement for Non-Warranted Programs (ILAN) agreement
 can be found
-[here](https://www.ibm.com/support/customer/csol/terms/?id=L-JXNY-4LLR96&lc=en) 
+[here](https://www.ibm.com/support/customer/csol/terms/?id=L-WWCM-BZEKNH&lc=en) 
 
 The registered trademark Linux® is used pursuant to a sublicense from the Linux
 Foundation, the exclusive licensee of Linus Torvalds, owner of the mark on a
